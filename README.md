@@ -1,5 +1,3 @@
-![Alt text](<https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white>)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;Assistant+Instructor+)](https://git.io/typing-svg)
 
