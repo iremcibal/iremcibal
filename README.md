@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcibal&layout=compact)
 
-[![Github: iremcibal](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/iremcibal>)](https://github.com/iremcibal) [![Linkedin : iremcibal](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/iremcibal//>)](https://www.linkedin.com/in/iremcibal) -- ![](https://komarev.com/ghpvc/?username=iremcibal&style=for-the-badge)
+[![Github: iremcibal](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/iremcibal>)](https://github.com/iremcibal) [![Linkedin : iremcibal](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/iremcibal//>)](https://www.linkedin.com/in/iremcibal) ![](https://komarev.com/ghpvc/?username=iremcibal&style=for-the-badge)
