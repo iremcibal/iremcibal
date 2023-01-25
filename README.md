@@ -2,4 +2,4 @@
 
 ![Alt text](<https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white>)![Alt text](<https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black>)![Alt text](<https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white>)![Alt text](<https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white>)![Alt text](<https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white>)![Alt text](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iremcibal=iremcibal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iremcibal=iremcibal&layout=compact)](https://github.com/iremcibal/github-readme-stats)
